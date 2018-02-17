@@ -1,5 +1,12 @@
 package com.example.standard.json_listview_asynctask;
 
+/**
+ * V1.0.0 Created on 07.02.2018
+ * Modifications
+ *
+ *  V
+ */
+
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
